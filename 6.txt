@@ -1,0 +1,2 @@
+file 6
+some change from file 6
