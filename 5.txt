@@ -2,3 +2,4 @@ File 5
 file 5
 some change from file 5
 another change change
+some <i class="fa fa-chain-broken" aria-hidden="true"></i>
